@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MediaNotas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+514741cba63e209f50c01a7f404c31e10dea8687")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d35248c7fafc2ed38fe6d8db29a669ae331639f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MediaNotas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MediaNotas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
