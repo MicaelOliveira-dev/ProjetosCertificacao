@@ -1,0 +1,15 @@
+C:\Users\Micael\Desktop\ProjetosCertificacao\Projetos\CalcularGpaFinal\CalcularGpaFinal\bin\Debug\net8.0\CalcularGpaFinal.exe
+C:\Users\Micael\Desktop\ProjetosCertificacao\Projetos\CalcularGpaFinal\CalcularGpaFinal\bin\Debug\net8.0\CalcularGpaFinal.deps.json
+C:\Users\Micael\Desktop\ProjetosCertificacao\Projetos\CalcularGpaFinal\CalcularGpaFinal\bin\Debug\net8.0\CalcularGpaFinal.runtimeconfig.json
+C:\Users\Micael\Desktop\ProjetosCertificacao\Projetos\CalcularGpaFinal\CalcularGpaFinal\bin\Debug\net8.0\CalcularGpaFinal.dll
+C:\Users\Micael\Desktop\ProjetosCertificacao\Projetos\CalcularGpaFinal\CalcularGpaFinal\bin\Debug\net8.0\CalcularGpaFinal.pdb
+C:\Users\Micael\Desktop\ProjetosCertificacao\Projetos\CalcularGpaFinal\CalcularGpaFinal\obj\Debug\net8.0\CalcularGpaFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micael\Desktop\ProjetosCertificacao\Projetos\CalcularGpaFinal\CalcularGpaFinal\obj\Debug\net8.0\CalcularGpaFinal.AssemblyInfoInputs.cache
+C:\Users\Micael\Desktop\ProjetosCertificacao\Projetos\CalcularGpaFinal\CalcularGpaFinal\obj\Debug\net8.0\CalcularGpaFinal.AssemblyInfo.cs
+C:\Users\Micael\Desktop\ProjetosCertificacao\Projetos\CalcularGpaFinal\CalcularGpaFinal\obj\Debug\net8.0\CalcularGpaFinal.csproj.CoreCompileInputs.cache
+C:\Users\Micael\Desktop\ProjetosCertificacao\Projetos\CalcularGpaFinal\CalcularGpaFinal\obj\Debug\net8.0\CalcularGpaFinal.sourcelink.json
+C:\Users\Micael\Desktop\ProjetosCertificacao\Projetos\CalcularGpaFinal\CalcularGpaFinal\obj\Debug\net8.0\CalcularGpaFinal.dll
+C:\Users\Micael\Desktop\ProjetosCertificacao\Projetos\CalcularGpaFinal\CalcularGpaFinal\obj\Debug\net8.0\refint\CalcularGpaFinal.dll
+C:\Users\Micael\Desktop\ProjetosCertificacao\Projetos\CalcularGpaFinal\CalcularGpaFinal\obj\Debug\net8.0\CalcularGpaFinal.pdb
+C:\Users\Micael\Desktop\ProjetosCertificacao\Projetos\CalcularGpaFinal\CalcularGpaFinal\obj\Debug\net8.0\CalcularGpaFinal.genruntimeconfig.cache
+C:\Users\Micael\Desktop\ProjetosCertificacao\Projetos\CalcularGpaFinal\CalcularGpaFinal\obj\Debug\net8.0\ref\CalcularGpaFinal.dll
